@@ -1,7 +1,7 @@
-using Documenter, UiPathOrchestratorJobSchedulingPlanCreate
+using Documenter, UiPathOrchestratorJobSchedulingPlanCreate1
 
 makedocs(;
-    modules=[UiPathOrchestratorJobSchedulingPlanCreate],
+    modules=[UiPathOrchestratorJobSchedulingPlanCreate1],
     format=Documenter.HTML(),
     pages=[
         "Home" => "index.md",
@@ -10,7 +10,7 @@ makedocs(;
         "Excel" => "excel.md",
     ],
     repo="https://github.com/wakakusa/UiPathOrchestratorJobSchedulingPlanCreate1.jl/blob/{commit}{path}#L{line}",
-    sitename="UiPathOrchestratorJobSchedulingPlanCreate.jl",
+    sitename="UiPathOrchestratorJobSchedulingPlanCreate1.jl",
     authors="wakakusa",
     assets=String[],
 )
