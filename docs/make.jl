@@ -9,12 +9,12 @@ makedocs(;
         "Function" => "function.md",
         "Excel" => "excel.md",
     ],
-    repo="https://github.com/wakakusa/UiPathOrchestratorJobSchedulingPlanCreate.jl/blob/{commit}{path}#L{line}",
+    repo="https://github.com/wakakusa/UiPathOrchestratorJobSchedulingPlanCreate1.jl/blob/{commit}{path}#L{line}",
     sitename="UiPathOrchestratorJobSchedulingPlanCreate.jl",
     authors="wakakusa",
     assets=String[],
 )
 
 deploydocs(;
-    repo="github.com/wakakusa/UiPathOrchestratorJobSchedulingPlanCreate.jl",
+    repo="github.com/wakakusa/UiPathOrchestratorJobSchedulingPlanCreate1.jl",
 )
